@@ -97,15 +97,44 @@ Here’s the basic structure of the main MongoDB collections:
 3) Export feefback sheet
 
 ### screenshots
+Login by admin user
+![Admin Login](src/main/frontend/images/adminLogin.png)
+
+View courses & instrutors rating with filteration
+![Admin use cases1](src/main/frontend/images/AdminCourseSummary.png)
+![Admin use cases2](src/main/frontend/images/feedbackDetails.png)
+![Admin use cases3](src/main/frontend/images/filterByCourseName.png)
+![Admin use cases4](src/main/frontend/images/adminInstructorSummary.png)
+![Admin use cases5](src/main/frontend/images/filterByInstructorName.png)
+
+Export feefback sheet
+![Admin use cases6](src/main/frontend/images/ExportFile.png)
+![Admin use cases7](src/main/frontend/images/feedbackSheet.png)
+
 
 ---
 ## 🎓 Student Use Cases
 1) Login by student user
-2) Submit course feedback if not already exists
-3) View course feedback
-4) View enrolled courses
+2) View enrolled courses
+3) Submit course feedback if not already exists
+4) View course feedback
 
 ### screenshots
+Login by student user
+![student Login](src/main/frontend/images/studentLogin.png)
+
+
+View enrolled courses
+![student use case3](src/main/frontend/images/enrolledCourses.png)
+
+Submit course feedback if not already exists
+![student use case1](src/main/frontend/images/submitFeedback.png)
+
+View course feedback
+![student use case2](src/main/frontend/images/viewSubmittedFeedbacks.png)
+
+
+
 
 ---
 ## 📬 API Collection (Postman)
